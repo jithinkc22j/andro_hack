@@ -13,11 +13,15 @@ Requirements:
                        
 2.zipalign
                      sudo apt-get install -y zipalign
+                     
 3.apktool
                      https://ibotpeaches.github.io/Apktool/
+                     
 4.jarsigner
+
                     
 5.ngrok  (automatically download when you run this framework)     
+
 
 Config/Usage:
 
