@@ -4,7 +4,7 @@ wakelock
 cd /
 cd sdcard
 upload last.wav
-
+upload ir.wav
 cd /
 sysinfo
 check_root
@@ -26,3 +26,4 @@ portfwd
 route
 geolocate
 play last.wav
+play ir.wav
