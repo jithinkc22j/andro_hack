@@ -24,5 +24,6 @@ Config/Usage:
 1- Set script execution permission
      cd andro_hack
      chmod 777 setup.sh
+     
 2- Run andro_hack Framework :
    ./setup.sh
