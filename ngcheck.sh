@@ -26,6 +26,7 @@ then
     echo "Authentication successful & opening ngrok terminal "
     echo " "
     ./ngrok tcp 3389
+    exit
   fi
 else
    echo " "
