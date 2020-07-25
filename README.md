@@ -1,12 +1,13 @@
 # andro_hack
 andro_hack is a framework that generate  signed apk payload to penetrate android platforms.
 
-Legal Disclamer:
+# Legal Disclamer:
 
 The author does not hold any responsibility for the bad use of this tool,
 remember this is only for educational purpose.
 
-Requirements:
+
+# Requirements:
 
 1.MSFvenom
                      
@@ -26,7 +27,7 @@ Requirements:
 5.ngrok  (automatically download when you run this framework)     
 
 
-Config/Usage:
+# Config/Usage:
 
 1- Set script execution permission
      cd andro_hack
