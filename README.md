@@ -29,9 +29,13 @@ remember this is only for educational purpose.
 
 # Config/Usage:
 
-1- Set script execution permission
+- Extract this zip file in to your Desktop
+
+- Open a terminal and change the directory to andro_hack
+
+- Set script execution permission
      cd andro_hack
      chmod 777 setup.sh
      
-2- Run andro_hack Framework :
+- Run andro_hack Framework :
    ./setup.sh
